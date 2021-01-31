@@ -10,4 +10,5 @@ The WeatherPy jupyter notebook has the analysis done using weather API.
 The VacationPy jupyetr notebook has the analysis with google maps and API requests.
 
 # note
-Please use your own API keys by putting them in the api_keys.py.
+1.Please use your own API keys by putting them in the api_keys.py.
+2.The csv is saved in resources folder in the name cities_weather_data and the path is './Resources/cities_weather_data.csv'
